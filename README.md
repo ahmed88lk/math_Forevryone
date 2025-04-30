@@ -1,6 +1,6 @@
-# Visualiseur Maths
+# AL-KHWARIZMI
 
-**Visualiseur Maths** is a Python application that generates and visualizes math animations from natural language concepts, powered by Google Gemini and ManimGL.
+**AL-KHWARIZMI** is a Python application that generates and visualizes math animations from natural language concepts, powered by Google Gemini and ManimGL.
 
 ---
 
@@ -30,8 +30,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/visualiseur-maths.git
-cd visualiseur-maths
+git clone https://github.com/your-username/AL-KHWARIZMI.git
+cd AL-KHWARIZMI
 
 # Install Python dependencies
 pip install -r requirements.txt
@@ -79,7 +79,7 @@ generate_and_render_manim_video("Your math concept")
 ## 📦 Project Structure
 
 ```
-visualiseur-maths/
+AL-KHWARIZMI/
 │
 ├── app.py                # Main Streamlit interface
 ├── utils/

@@ -1,0 +1,74 @@
+# Python-related
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+venv/
+env/
+ENV/
+.env
+
+# ManimGL-related
+media/
+videos/
+*.mp4
+*.gif
+*.png
+photos/
+images/
+
+# Jupyter notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.project
+.spyderproject
+.spyproject
+.ropeproject
+
+# Logs
+*.log
+logs/
+
+# API keys and secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+secrets.json
+
+# OS-specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# AL-KHWARIZMI specific
+temp_manim_script.py
+manim_output/
